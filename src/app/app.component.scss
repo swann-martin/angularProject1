@@ -1,0 +1,11 @@
+.main-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  .app-container {
+    display: flex;
+    justify-content: space-between;
+  }
+}
